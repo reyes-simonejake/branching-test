@@ -15,19 +15,19 @@ def simone_basic_info():
     print("Education: College, Senior High School, High School")
 
 def goals():
-    print("My goal is to become a Software Engineer and Provide my family what they want and need.")
+    print("My goal is to become a Software Engineer.")
 
 def comment_mamasalanang():
-    print("Lagay mo comment mo dito Gerald")
+    print("")
 
 def comment_mosquito():
-    print("Lagay mo comment mo dito Michael")
+    print("")
 
 def comment_delumen():
-    print("Lagay mo comment mo dito Michael")
+    print("")
 
 def comment_victorioso():
-    print("Lagay mo comment mo dito Michael")
+    print("")
 
 def main():
     while True:
