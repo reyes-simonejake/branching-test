@@ -1,8 +1,8 @@
 from package.reyes import main as reyes_main
 from package.delumen import delumen_info
-from package.mosquito import mosquito_info
+from package.mosquito import menu_function as mosquito_info
 from package.mamasalanang import mamasalanang_info
-from package.victorioso import victorioso_info
+from package.victorioso import menu_function as victorioso_main
 
 def menus_members():
     print("Welcome !, Select a Person ")
@@ -31,7 +31,7 @@ def main_function():
             delumen_info()
         elif choice == '5':
             print("\n")
-            victorioso_info()
+            victorioso_main()
         elif choice == '6':
             print("Exiting.....")
             break
